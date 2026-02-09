@@ -1,0 +1,97 @@
+{
+  "positions": [
+    {
+      "ticker": "AAPL US",
+      "quantity": 210000,
+      "price": 194.5,
+      "currency": "USD",
+      "marketValueLocal": 40845000.0,
+      "fxRate": 1.0,
+      "marketValueUSD": 40845000
+    },
+    {
+      "ticker": "MSFT US",
+      "quantity": 185000,
+      "price": 410.0,
+      "currency": "USD",
+      "marketValueLocal": 75850000.0,
+      "fxRate": 1.0,
+      "marketValueUSD": 75850000
+    },
+    {
+      "ticker": "AMZN US",
+      "quantity": 95000,
+      "price": 155.0,
+      "currency": "USD",
+      "marketValueLocal": 14725000.0,
+      "fxRate": 1.0,
+      "marketValueUSD": 14725000
+    },
+    {
+      "ticker": "NVDA US",
+      "quantity": 59200,
+      "price": 950.0,
+      "currency": "USD",
+      "marketValueLocal": 56240000.0,
+      "fxRate": 1.0,
+      "marketValueUSD": 56240000
+    },
+    {
+      "ticker": "GOOGL US",
+      "quantity": 80000,
+      "price": 165.0,
+      "currency": "USD",
+      "marketValueLocal": 13200000.0,
+      "fxRate": 1.0,
+      "marketValueUSD": 13200000
+    },
+    {
+      "ticker": "META US",
+      "quantity": 70000,
+      "price": 470.0,
+      "currency": "USD",
+      "marketValueLocal": 32900000.0,
+      "fxRate": 1.0,
+      "marketValueUSD": 32900000
+    },
+    {
+      "ticker": "TSM US",
+      "quantity": 120000,
+      "price": 145.4,
+      "currency": "USD",
+      "marketValueLocal": 17448000.0,
+      "fxRate": 1.0,
+      "marketValueUSD": 17448000
+    },
+    {
+      "ticker": "ASML NA",
+      "quantity": 30000,
+      "price": 800.0,
+      "currency": "EUR",
+      "marketValueLocal": 24000000.0,
+      "fxRate": 1.0835,
+      "marketValueUSD": 26004000
+    },
+    {
+      "ticker": "NESN SW",
+      "quantity": 50000,
+      "price": 94.5,
+      "currency": "CHF",
+      "marketValueLocal": 4725000.0,
+      "fxRate": 1.12,
+      "marketValueUSD": 5292000
+    },
+    {
+      "ticker": "MC FP",
+      "quantity": 25000,
+      "price": 680.0,
+      "currency": "EUR",
+      "marketValueLocal": 17000000.0,
+      "fxRate": 1.085,
+      "marketValueUSD": 18445000
+    }
+  ],
+  "cashUSD": 8015000,
+  "syncTime": "2025-11-10T09:32:00Z",
+  "custodian": "BNY Mellon"
+}
